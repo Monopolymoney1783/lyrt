@@ -10,7 +10,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Antirevoke</string>
 			<key>PayloadIdentifier</key>
-<string>com.apple.proxy.http.global.6F6F3A4B-6E3A-4B20-B815-7BC2757C9959</string>
+                        <string>com.apple.proxy.http.global.6F6F3A4B-6E3A-4B20-B815-7BC2757C9959</string>
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 			<key>PayloadUUID</key>
@@ -19,10 +19,6 @@
 			<integer>1</integer>
 			<key>ProxyCaptiveLoginAllowed</key>
 			<false/>
-		<key>ProxyPACFallbackAllowed</key>
-			<false/>
-			<key>ProxyPACURL</key>
-			<string>https://raw.githubusercontent.com/net93/adb/master/Profile/Antirevoke.js</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
